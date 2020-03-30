@@ -1,5 +1,6 @@
 backend:
-  name: github
+  name: git-gateway
+  branch: master
   repo: jaksik/cms-test
 
 media_folder: static/assets
