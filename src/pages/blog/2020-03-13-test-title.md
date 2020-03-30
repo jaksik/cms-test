@@ -16,7 +16,7 @@ Test bodyTest bodyTest bodyTest bodyTest bodyTest bodyTest bodyTest bodyTest bod
 ```
 </br>
 </br>
-<img src="../assets/gopr0040.jpg">
+<img src="../assets/gopr0040.jpg" style="float:right">
 ```
 
 ![](assets/gopr0040.jpg)
